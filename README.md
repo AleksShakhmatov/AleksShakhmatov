@@ -1,7 +1,5 @@
 
 <h1 align="center"> Привет, я Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
-
----
 <h3 align="center"> QA fullstack / QA automation <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h3>
 
 
