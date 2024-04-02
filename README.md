@@ -8,7 +8,7 @@
 - 📫 Мои контакты:  <a href="mailto:alx.shakhmatov@gmail.com">**Почта**</a>, [**телеграм**](https://t.me/Aleksandr_Shh)
 
 ---
- ### Используемые инструменты и технологии:
+ ### Стек технологий и инстремнтов:
 
 
 | Java                                                    | IntelliJ  <br>  Idea                                            | GitHub                                                    | JUnit 5                                                   | Gradle                                                    | Selenide                                                    | Selenoid                                                    | Allure<br/>Report                                                | Allure <br> TestOps                                               | Jenkins                                                    | Jira                                                    |                                                    Telegram |
