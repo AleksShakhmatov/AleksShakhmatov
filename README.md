@@ -1,6 +1,6 @@
 
 <h1 align="center"> Привет, я Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
-<h2 align="center"> QA fullstack / QA automation <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h2>
+<h3 align="center"> QA fullstack / QA automation <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h3>
 
 
 В тестировании около 4-х лет. Работал на проектах финтеха и телекома в качестве ручного тестировщика web и mobile. Пишу автотесты для UI и API с поднятием всей инфраструктуры, созданием артефактов, отчетов и уведомлений.
