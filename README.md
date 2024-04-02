@@ -1,6 +1,6 @@
 
 <h1 align="center"> Привет, я Александр <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
-<h3 align="center"> QA fullstack / QA automation <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h3>
+<h2 align="center"> QA fullstack / QA automation <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h2>
 
 
 В тестировании около 4-х лет. Работал на проектах финтеха и телекома в качестве ручного тестировщика web и mobile. Пишу автотесты для UI и API с поднятием всей инфраструктуры, созданием артефактов, отчетов и уведомлений.
@@ -8,7 +8,7 @@
 - 🔭 Пишу автотесты на **Java**
 - 🌱 Продолжаю обучение в [**qa.guru**](https://qa.guru/)
 - 🤔 Планирую углубляться в **Java** и получить навыки написания автотестов на **Python**
-- 📫 Мои контакты: [**alx.shakhmatov@gmail.com**](<alx.shakhmatov@gmail.com>), [**телеграм**](https://t.me/Aleksandr_Shh)
+- 📫 Мои контакты:  <a href="mailto:alx.shakhmatov@gmail.com">**Почта**</a>, [**телеграм**](https://t.me/Aleksandr_Shh)
 
 ---
  ### Используемые инструменты и технологии:
