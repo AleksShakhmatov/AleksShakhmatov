@@ -18,7 +18,7 @@
 ### Мои проекты:
 ### UI-тесты 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/?username=AleksShakhmatov&repo=UI_Web_IBS)](https://github.com/AleksShakhmatov/IBS_UI_TESTS)
+[![Readme Card](https://github.com/AleksShakhmatov/IBS_UI_TESTS)
 ### 🔙 API-тесты 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AleksShakhmatov&theme=github_dark_dimmed&show_icons=true&repo=API_Regres.IN)](https://github.com/Lenok1998/API_Regres.IN_Tests](https://github.com/AleksShakhmatov/REQRES_API_TESTS)
 ### 📱 Android-тесты
