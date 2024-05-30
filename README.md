@@ -16,7 +16,6 @@
 
 ----
 ### Мои проекты:
-## :teacher: Учебные проекты
 ### 🖼️ UI-тесты 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AleksShakhmatov&repo=UI_Web_IBS)](https://github.com/AleksShakhmatov/IBS_UI_TESTS)
