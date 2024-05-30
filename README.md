@@ -22,7 +22,7 @@
 ### API-тесты 
 - [REQRES](https://github.com/AleksShakhmatov/REQRES_API_TESTS)
 ### Mobile-тесты
-- [WIKIPEDIA](https://github-readme-stats.vercel.app/api/pin/?username=AleksShakhmatov&theme=github_dark_dimmed&show_icons=true&repo=Wikipedia_Mobile)]](https://github.com/AleksShakhmatov/WIKI_MOBILE_TESTS)
+- [WIKIPEDIA](https://github.com/AleksShakhmatov/WIKI_MOBILE_TESTS)
 
 
 ---
