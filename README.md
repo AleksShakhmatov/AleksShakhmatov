@@ -16,9 +16,9 @@
 
 ----
 ### Мои проекты:
-[**UI**]([[https://github.com/AleksShakhmatov/AleksShakhmatov-HW17_First_Ready_Project](https://github.com/AleksShakhmatov/IBS_UI_TESTS))
-[**API**]([[https://github.com/AleksShakhmatov/AleksShakhmatov-HW17_First_Ready_Project](https://github.com/AleksShakhmatov/REQRES_API_TESTS))
-[**MOBILE**]([[https://github.com/AleksShakhmatov/AleksShakhmatov-HW17_First_Ready_Project](https://github.com/AleksShakhmatov/WIKI_MOBILE_TESTS))
+[**UI**](https://github.com/AleksShakhmatov/AleksShakhmatov-HW17_First_Ready_Project](https://github.com/AleksShakhmatov/IBS_UI_TESTS)
+[**API**](https://github.com/AleksShakhmatov/AleksShakhmatov-HW17_First_Ready_Project](https://github.com/AleksShakhmatov/REQRES_API_TESTS)
+[**MOBILE**](https://github.com/AleksShakhmatov/AleksShakhmatov-HW17_First_Ready_Project](https://github.com/AleksShakhmatov/WIKI_MOBILE_TESTS)
 
 
 ---
