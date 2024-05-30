@@ -18,19 +18,11 @@
 ### Мои проекты:
 ### UI-тесты 
 
-[![Readme Card](https://github.com/AleksShakhmatov/IBS_UI_TESTS)
-### 🔙 API-тесты 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AleksShakhmatov&theme=github_dark_dimmed&show_icons=true&repo=API_Regres.IN)](https://github.com/Lenok1998/API_Regres.IN_Tests](https://github.com/AleksShakhmatov/REQRES_API_TESTS)
-### 📱 Android-тесты
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AleksShakhmatov&theme=github_dark_dimmed&show_icons=true&repo=Wikipedia_Mobile)](https://github.com/Lenok1998/WikipediaMobileTests)
-[**UI**](https://github.com/AleksShakhmatov/IBS_UI_TESTS)
-
-[**API**](https://github.com/AleksShakhmatov/REQRES_API_TESTS)
-
-[**MOBILE**](https://github.com/AleksShakhmatov/WIKI_MOBILE_TESTS)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lenok1998&repo=UI_Web_Sibintek_Tests)](https://github.com/Lenok1998/Sibintek_AutomationTests)
+[IBS](https://github.com/AleksShakhmatov/IBS_UI_TESTS)
+### API-тесты 
+[REQRES](https://github.com/AleksShakhmatov/REQRES_API_TESTS)
+### Mobile-тесты
+[WIKIPEDIA]([https://github-readme-stats.vercel.app/api/pin/?username=AleksShakhmatov&theme=github_dark_dimmed&show_icons=true&repo=Wikipedia_Mobile)]](https://github.com/AleksShakhmatov/WIKI_MOBILE_TESTS)
 
 
 ---
