@@ -8,6 +8,12 @@
 - 📫 Мои контакты:  <a href="mailto:alx.shakhmatov@gmail.com">**Почта**</a>, [**телеграм**](https://t.me/Aleksandr_Shh)
 
 ---
+### Статистика профиля:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksShakhmatov&theme=github_dark_dimmed&show_icons=true)
+
+
+
+---
 ### Стек технологий и инструментов:
 
 | Java                                                    | IntelliJ  <br>  Idea                                            | GitHub                                                    | JUnit 5                                                   | TestNG                                                    | Gradle                                                    | Selenide                                                    | Selenoid                                                    | Selenium                                                    | Allure<br/>Report                                                | Allure <br> TestOps                                               | Jenkins                                                    | Docker                                                    | Jira                                                    |                                                    Telegram |
@@ -23,8 +29,3 @@
 - [REQRES](https://github.com/AleksShakhmatov/REQRES_API_TESTS)
 ### Mobile-тесты
 - [WIKIPEDIA](https://github.com/AleksShakhmatov/WIKI_MOBILE_TESTS)
-
-
----
-### Статистика профиля:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksShakhmatov&theme=github_dark_dimmed&show_icons=true)
