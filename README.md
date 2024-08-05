@@ -1,6 +1,7 @@
 
 <h1 align="center"> Приветствую, я Александр </h1>
-<h3 align="center"> QA fullstack / QA automation <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h3>
+<h2 align="center"> Стремлюст и стараюсь стать QA fullstack / QA automation <h2>
+<h3 align="center"> QA <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h3>
 
 - 🔭 Пишу автотесты на **Java**
 - 🌱 Продолжаю развиваться в автоматизации тестирования
