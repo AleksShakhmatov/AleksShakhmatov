@@ -2,12 +2,11 @@
 <h1 align="center"> Приветствую, я Александр </h1>
 <h3 align="center"> QA <img width="40" height="40" style="vertical-align:middle" title="Gears" src="media/images/gears.png"> </h3>
 
-- 🔭 Пишу автотесты на **Java**
+- ♨️Пишу автотесты на **Java**
 - 🌱 Продолжаю развиваться в автоматизации тестирования. Стремлюсь и стараюсь стать QA fullstack / QA automation
 - 👀 Интересуюсь **Python**
 - 📫 Мои контакты:  <a href="mailto:Alex.Shakhmatov@yandex.ru">**Почта**</a>, [**телеграм**](https://t.me/Aleksandr_Shh)
--![image](https://github.com/user-attachments/assets/587c4498-25a4-4fb5-bedd-87204c506f3c)
- Опыт и навыки:  [**Резюме**](https://disk.yandex.ru/i/PtlU4eoTUgLnNQ)
+- 📋 Опыт и навыки:  [**Резюме**](https://disk.yandex.ru/i/PtlU4eoTUgLnNQ)
 
 ---
 ### Статистика профиля:
