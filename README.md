@@ -11,7 +11,7 @@
 
 ---
 ### Статистика профиля:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksShakhmatov)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksShakhmatov)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <h2 align="center"> Java
