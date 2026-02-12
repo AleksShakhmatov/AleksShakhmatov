@@ -9,9 +9,7 @@
 - 📋 Опыт и навыки:  [**Резюме**](https://disk.yandex.ru/i/nKkRdK-hLIFvwQ)
 - 📖 Проба пера об одном из своих [**хобби**](https://habr.com/ru/companies/ibs/articles/790618/#Мотоциклы)
 
----
-### Статистика профиля:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleksShakhmatov)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 <h2 align="center"> Java
